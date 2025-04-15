@@ -1,5 +1,7 @@
 # Regrider
 
+https://zenodo.org/records/15211324
+
 This is the original draft of the Regrider Model of Light, authored by Serhii Hliievyi (Ukraine), proposed on April 12, 2025.
 
 \begin{abstract}
